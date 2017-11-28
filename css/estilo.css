@@ -1,0 +1,13 @@
+.mdl-layout__header-row {
+  background: #00995D;
+}
+
+button#show-dialog {
+    background: #00995D ;
+    color: white;
+}
+
+button#salvar {
+	background: #00995D ;
+    color: white;
+}
